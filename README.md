@@ -12,7 +12,7 @@ Explore course-specific folders for a wealth of study materials:
    - **Lecture Notes:** Complete handwritten notes from start to the end of the course.
    - **Textbooks:** Essential textbooks and reference materials sourced from open courses.
    - **Assignment:** Details and solutions for course assignments.
-   - **Presentation:** My presentation that occurs in the course.
+   - **Presentation:** My presentation + other group presentation which was the part of any graded assesment which occurs in the course.
 
 
 ## 📝 Usage
