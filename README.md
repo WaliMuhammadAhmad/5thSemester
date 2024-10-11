@@ -8,16 +8,19 @@ Welcome to my 5th Semesters Repo! 📘✨
 
 Explore course-specific folders for a wealth of study materials:
 
-1. **[Software Construction & Development](SCD/):**
-   - **Lecture Notes:** Complete handwritten notes from start to the end of the course.
-   - **Textbooks:** Essential textbooks and reference materials sourced from open courses.
-   - **Assignment:** Details and solutions for course assignments.
-   - **Presentation:** My presentation + other group presentation which was the part of any graded assesment which occurs in the course.
+1. **[Artificial Intelligence (AI) Lab](AI%20Lab/):**
+2. **[Artificial Intelligence (AI)](AI/):**
+3. **[Business Process Engineering (BPE)](BPE/):**
+4. **[Computer Network (CN) Lab](CN%20Lab/):**
+5. **[Computer Network (CN)](CN/):**
+6. **[Holy Quran Translation (HQT)](HQT/):**
+7. **[Software Construction & Development](SCD/):**
+8. **[Technical Writing & Presentation Skills (TWPS)](TWPS/):**
 
 
 ## 📝 Usage
 
-Feel free to utilize these materials for your studies. The textbooks included are sourced from open courses, and their usage should comply with the respective licenses. For materials such as lecture notes and presentations, created by me, I hold the copyright for me the content created my be.
+Feel free to utilize these materials for your studies. The textbooks included are sourced from open courses, and their usage should comply with the respective licenses. For materials such as lecture notes and presentations, created by me, I hold the copyright for my work.
 
 ## © Copyright
 
